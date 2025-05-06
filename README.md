@@ -1,2 +1,2 @@
 # Lernportfolio
-[Aggreganzfunktionen](aggreganzfunktionen.md)
+[Aggreganzfunktionen](aggregatsfunctionen.md)
