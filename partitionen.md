@@ -6,4 +6,3 @@ Partitionen teilen große Tabellen in kleinere, besser verwaltbare Teile (Partit
 - **List Partitioning** – z. B. nach Regionen
 - **Hash Partitioning** – gleichmäßige Verteilung durch Hash-Funktion
 
----
