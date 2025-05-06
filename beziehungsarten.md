@@ -1,4 +1,4 @@
-## Beziehungsarten?
+## Beziehungsarten
 
 In relationalen Datenbanken gibt es verschiedene Arten von Beziehungen zwischen Tabellen. Diese beschreiben, wie Datensätze zueinander in Verbindung stehen. Die drei Haupttypen sind:
 
