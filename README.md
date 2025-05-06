@@ -1,1 +1,2 @@
 # Lernportfolio
+[Aggreganzfunktionen](aggreganzfunktionen.md)
