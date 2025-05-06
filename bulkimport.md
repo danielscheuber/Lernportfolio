@@ -1,4 +1,4 @@
-##Bulkimport?
+## Bulkimport?
 
 Ein Bulkimport (Massendatenimport) ist eine Methode, um große Mengen an Daten effizient in eine Datenbank zu laden. In MySQL verwendet man zum Beispiel:
 
