@@ -5,4 +5,4 @@ Generalisierung ist ein Konzept aus dem Datenbankentwurf und der objektorientier
 - Entitäten: `Auto`, `Motorrad`
 - Gemeinsame Superklasse: `Fahrzeug` mit Attributen wie `Hersteller`, `Baujahr`
 
----
+
