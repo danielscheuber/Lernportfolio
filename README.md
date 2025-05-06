@@ -1,2 +1,13 @@
 # Lernportfolio
 [Aggreganzfunktionen](aggregatsfunctionen.md)
+[Aggreganzfunktionen](backuparten.md)
+[Aggreganzfunktionen](beziehungsarten.md)
+[Aggreganzfunktionen](bulkimport.md)
+[Aggreganzfunktionen](cte.md)
+[DBMS](dbms.md)
+[Generalisierung](generalisierung.md)
+[Generalisierung](partitionen.md)
+[HAVING Condition](havingcondition.md)
+[Select mit Alias](selectmitalias.md)
+[Storage Engine](storageengine.md)
+[Subqueries](subqueries.md)
